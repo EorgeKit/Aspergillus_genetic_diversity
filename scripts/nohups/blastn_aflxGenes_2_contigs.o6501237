@@ -1,0 +1,1675 @@
+Starting blastn mapping for all genes and samples...
+
+Mapping gene: adhA_short_chain_alcohol_dehydrogenase
+  Running blastn for adhA_short_chain_alcohol_dehydrogenase against sample: 10B
+
+  Output written to BLASTN_adhA_short_chain_alcohol_dehydrogenase_10B.tab
+
+  Running blastn for adhA_short_chain_alcohol_dehydrogenase against sample: 11B
+
+  Output written to BLASTN_adhA_short_chain_alcohol_dehydrogenase_11B.tab
+
+  Running blastn for adhA_short_chain_alcohol_dehydrogenase against sample: 12A
+
+  Output written to BLASTN_adhA_short_chain_alcohol_dehydrogenase_12A.tab
+
+  Running blastn for adhA_short_chain_alcohol_dehydrogenase against sample: 13B
+
+  Output written to BLASTN_adhA_short_chain_alcohol_dehydrogenase_13B.tab
+
+  Running blastn for adhA_short_chain_alcohol_dehydrogenase against sample: 15A
+
+  Output written to BLASTN_adhA_short_chain_alcohol_dehydrogenase_15A.tab
+
+  Running blastn for adhA_short_chain_alcohol_dehydrogenase against sample: 16A
+
+  Output written to BLASTN_adhA_short_chain_alcohol_dehydrogenase_16A.tab
+
+  Running blastn for adhA_short_chain_alcohol_dehydrogenase against sample: 17A
+
+  Output written to BLASTN_adhA_short_chain_alcohol_dehydrogenase_17A.tab
+
+  Running blastn for adhA_short_chain_alcohol_dehydrogenase against sample: 18B
+
+  Output written to BLASTN_adhA_short_chain_alcohol_dehydrogenase_18B.tab
+
+  Running blastn for adhA_short_chain_alcohol_dehydrogenase against sample: 19B
+
+  Output written to BLASTN_adhA_short_chain_alcohol_dehydrogenase_19B.tab
+
+  Running blastn for adhA_short_chain_alcohol_dehydrogenase against sample: 1B
+
+  Output written to BLASTN_adhA_short_chain_alcohol_dehydrogenase_1B.tab
+
+  Running blastn for adhA_short_chain_alcohol_dehydrogenase against sample: 20B
+
+  Output written to BLASTN_adhA_short_chain_alcohol_dehydrogenase_20B.tab
+
+  Running blastn for adhA_short_chain_alcohol_dehydrogenase against sample: 22B
+
+  Output written to BLASTN_adhA_short_chain_alcohol_dehydrogenase_22B.tab
+
+  Running blastn for adhA_short_chain_alcohol_dehydrogenase against sample: 2A
+
+  Output written to BLASTN_adhA_short_chain_alcohol_dehydrogenase_2A.tab
+
+  Running blastn for adhA_short_chain_alcohol_dehydrogenase against sample: 3B
+
+  Output written to BLASTN_adhA_short_chain_alcohol_dehydrogenase_3B.tab
+
+  Running blastn for adhA_short_chain_alcohol_dehydrogenase against sample: 4B
+
+  Output written to BLASTN_adhA_short_chain_alcohol_dehydrogenase_4B.tab
+
+  Running blastn for adhA_short_chain_alcohol_dehydrogenase against sample: 5B
+
+  Output written to BLASTN_adhA_short_chain_alcohol_dehydrogenase_5B.tab
+
+  Running blastn for adhA_short_chain_alcohol_dehydrogenase against sample: 7B
+
+  Output written to BLASTN_adhA_short_chain_alcohol_dehydrogenase_7B.tab
+
+  Running blastn for adhA_short_chain_alcohol_dehydrogenase against sample: 9A
+
+  Output written to BLASTN_adhA_short_chain_alcohol_dehydrogenase_9A.tab
+
+Finished mapping gene: adhA_short_chain_alcohol_dehydrogenase
+------------------------------------------
+
+Mapping gene: aflJ_possible_transcriptional_modulator
+  Running blastn for aflJ_possible_transcriptional_modulator against sample: 10B
+
+  Output written to BLASTN_aflJ_possible_transcriptional_modulator_10B.tab
+
+  Running blastn for aflJ_possible_transcriptional_modulator against sample: 11B
+
+  Output written to BLASTN_aflJ_possible_transcriptional_modulator_11B.tab
+
+  Running blastn for aflJ_possible_transcriptional_modulator against sample: 12A
+
+  Output written to BLASTN_aflJ_possible_transcriptional_modulator_12A.tab
+
+  Running blastn for aflJ_possible_transcriptional_modulator against sample: 13B
+
+  Output written to BLASTN_aflJ_possible_transcriptional_modulator_13B.tab
+
+  Running blastn for aflJ_possible_transcriptional_modulator against sample: 15A
+
+  Output written to BLASTN_aflJ_possible_transcriptional_modulator_15A.tab
+
+  Running blastn for aflJ_possible_transcriptional_modulator against sample: 16A
+
+  Output written to BLASTN_aflJ_possible_transcriptional_modulator_16A.tab
+
+  Running blastn for aflJ_possible_transcriptional_modulator against sample: 17A
+
+  Output written to BLASTN_aflJ_possible_transcriptional_modulator_17A.tab
+
+  Running blastn for aflJ_possible_transcriptional_modulator against sample: 18B
+
+  Output written to BLASTN_aflJ_possible_transcriptional_modulator_18B.tab
+
+  Running blastn for aflJ_possible_transcriptional_modulator against sample: 19B
+
+  Output written to BLASTN_aflJ_possible_transcriptional_modulator_19B.tab
+
+  Running blastn for aflJ_possible_transcriptional_modulator against sample: 1B
+
+  Output written to BLASTN_aflJ_possible_transcriptional_modulator_1B.tab
+
+  Running blastn for aflJ_possible_transcriptional_modulator against sample: 20B
+
+  Output written to BLASTN_aflJ_possible_transcriptional_modulator_20B.tab
+
+  Running blastn for aflJ_possible_transcriptional_modulator against sample: 22B
+
+  Output written to BLASTN_aflJ_possible_transcriptional_modulator_22B.tab
+
+  Running blastn for aflJ_possible_transcriptional_modulator against sample: 2A
+
+  Output written to BLASTN_aflJ_possible_transcriptional_modulator_2A.tab
+
+  Running blastn for aflJ_possible_transcriptional_modulator against sample: 3B
+
+  Output written to BLASTN_aflJ_possible_transcriptional_modulator_3B.tab
+
+  Running blastn for aflJ_possible_transcriptional_modulator against sample: 4B
+
+  Output written to BLASTN_aflJ_possible_transcriptional_modulator_4B.tab
+
+  Running blastn for aflJ_possible_transcriptional_modulator against sample: 5B
+
+  Output written to BLASTN_aflJ_possible_transcriptional_modulator_5B.tab
+
+  Running blastn for aflJ_possible_transcriptional_modulator against sample: 7B
+
+  Output written to BLASTN_aflJ_possible_transcriptional_modulator_7B.tab
+
+  Running blastn for aflJ_possible_transcriptional_modulator against sample: 9A
+
+  Output written to BLASTN_aflJ_possible_transcriptional_modulator_9A.tab
+
+Finished mapping gene: aflJ_possible_transcriptional_modulator
+------------------------------------------
+
+Mapping gene: AflR_regulatory_protein
+  Running blastn for AflR_regulatory_protein against sample: 10B
+
+  Output written to BLASTN_AflR_regulatory_protein_10B.tab
+
+  Running blastn for AflR_regulatory_protein against sample: 11B
+
+  Output written to BLASTN_AflR_regulatory_protein_11B.tab
+
+  Running blastn for AflR_regulatory_protein against sample: 12A
+
+  Output written to BLASTN_AflR_regulatory_protein_12A.tab
+
+  Running blastn for AflR_regulatory_protein against sample: 13B
+
+  Output written to BLASTN_AflR_regulatory_protein_13B.tab
+
+  Running blastn for AflR_regulatory_protein against sample: 15A
+
+  Output written to BLASTN_AflR_regulatory_protein_15A.tab
+
+  Running blastn for AflR_regulatory_protein against sample: 16A
+
+  Output written to BLASTN_AflR_regulatory_protein_16A.tab
+
+  Running blastn for AflR_regulatory_protein against sample: 17A
+
+  Output written to BLASTN_AflR_regulatory_protein_17A.tab
+
+  Running blastn for AflR_regulatory_protein against sample: 18B
+
+  Output written to BLASTN_AflR_regulatory_protein_18B.tab
+
+  Running blastn for AflR_regulatory_protein against sample: 19B
+
+  Output written to BLASTN_AflR_regulatory_protein_19B.tab
+
+  Running blastn for AflR_regulatory_protein against sample: 1B
+
+  Output written to BLASTN_AflR_regulatory_protein_1B.tab
+
+  Running blastn for AflR_regulatory_protein against sample: 20B
+
+  Output written to BLASTN_AflR_regulatory_protein_20B.tab
+
+  Running blastn for AflR_regulatory_protein against sample: 22B
+
+  Output written to BLASTN_AflR_regulatory_protein_22B.tab
+
+  Running blastn for AflR_regulatory_protein against sample: 2A
+
+  Output written to BLASTN_AflR_regulatory_protein_2A.tab
+
+  Running blastn for AflR_regulatory_protein against sample: 3B
+
+  Output written to BLASTN_AflR_regulatory_protein_3B.tab
+
+  Running blastn for AflR_regulatory_protein against sample: 4B
+
+  Output written to BLASTN_AflR_regulatory_protein_4B.tab
+
+  Running blastn for AflR_regulatory_protein against sample: 5B
+
+  Output written to BLASTN_AflR_regulatory_protein_5B.tab
+
+  Running blastn for AflR_regulatory_protein against sample: 7B
+
+  Output written to BLASTN_AflR_regulatory_protein_7B.tab
+
+  Running blastn for AflR_regulatory_protein against sample: 9A
+
+  Output written to BLASTN_AflR_regulatory_protein_9A.tab
+
+Finished mapping gene: AflR_regulatory_protein
+------------------------------------------
+
+Mapping gene: aflT_putative_ABC_transporter
+  Running blastn for aflT_putative_ABC_transporter against sample: 10B
+
+  Output written to BLASTN_aflT_putative_ABC_transporter_10B.tab
+
+  Running blastn for aflT_putative_ABC_transporter against sample: 11B
+
+  Output written to BLASTN_aflT_putative_ABC_transporter_11B.tab
+
+  Running blastn for aflT_putative_ABC_transporter against sample: 12A
+
+  Output written to BLASTN_aflT_putative_ABC_transporter_12A.tab
+
+  Running blastn for aflT_putative_ABC_transporter against sample: 13B
+
+  Output written to BLASTN_aflT_putative_ABC_transporter_13B.tab
+
+  Running blastn for aflT_putative_ABC_transporter against sample: 15A
+
+  Output written to BLASTN_aflT_putative_ABC_transporter_15A.tab
+
+  Running blastn for aflT_putative_ABC_transporter against sample: 16A
+
+  Output written to BLASTN_aflT_putative_ABC_transporter_16A.tab
+
+  Running blastn for aflT_putative_ABC_transporter against sample: 17A
+
+  Output written to BLASTN_aflT_putative_ABC_transporter_17A.tab
+
+  Running blastn for aflT_putative_ABC_transporter against sample: 18B
+
+  Output written to BLASTN_aflT_putative_ABC_transporter_18B.tab
+
+  Running blastn for aflT_putative_ABC_transporter against sample: 19B
+
+  Output written to BLASTN_aflT_putative_ABC_transporter_19B.tab
+
+  Running blastn for aflT_putative_ABC_transporter against sample: 1B
+
+  Output written to BLASTN_aflT_putative_ABC_transporter_1B.tab
+
+  Running blastn for aflT_putative_ABC_transporter against sample: 20B
+
+  Output written to BLASTN_aflT_putative_ABC_transporter_20B.tab
+
+  Running blastn for aflT_putative_ABC_transporter against sample: 22B
+
+  Output written to BLASTN_aflT_putative_ABC_transporter_22B.tab
+
+  Running blastn for aflT_putative_ABC_transporter against sample: 2A
+
+  Output written to BLASTN_aflT_putative_ABC_transporter_2A.tab
+
+  Running blastn for aflT_putative_ABC_transporter against sample: 3B
+
+  Output written to BLASTN_aflT_putative_ABC_transporter_3B.tab
+
+  Running blastn for aflT_putative_ABC_transporter against sample: 4B
+
+  Output written to BLASTN_aflT_putative_ABC_transporter_4B.tab
+
+  Running blastn for aflT_putative_ABC_transporter against sample: 5B
+
+  Output written to BLASTN_aflT_putative_ABC_transporter_5B.tab
+
+  Running blastn for aflT_putative_ABC_transporter against sample: 7B
+
+  Output written to BLASTN_aflT_putative_ABC_transporter_7B.tab
+
+  Running blastn for aflT_putative_ABC_transporter against sample: 9A
+
+  Output written to BLASTN_aflT_putative_ABC_transporter_9A.tab
+
+Finished mapping gene: aflT_putative_ABC_transporter
+------------------------------------------
+
+Mapping gene: avfA_cytochrome_P450_monooxygenase
+  Running blastn for avfA_cytochrome_P450_monooxygenase against sample: 10B
+
+  Output written to BLASTN_avfA_cytochrome_P450_monooxygenase_10B.tab
+
+  Running blastn for avfA_cytochrome_P450_monooxygenase against sample: 11B
+
+  Output written to BLASTN_avfA_cytochrome_P450_monooxygenase_11B.tab
+
+  Running blastn for avfA_cytochrome_P450_monooxygenase against sample: 12A
+
+  Output written to BLASTN_avfA_cytochrome_P450_monooxygenase_12A.tab
+
+  Running blastn for avfA_cytochrome_P450_monooxygenase against sample: 13B
+
+  Output written to BLASTN_avfA_cytochrome_P450_monooxygenase_13B.tab
+
+  Running blastn for avfA_cytochrome_P450_monooxygenase against sample: 15A
+
+  Output written to BLASTN_avfA_cytochrome_P450_monooxygenase_15A.tab
+
+  Running blastn for avfA_cytochrome_P450_monooxygenase against sample: 16A
+
+  Output written to BLASTN_avfA_cytochrome_P450_monooxygenase_16A.tab
+
+  Running blastn for avfA_cytochrome_P450_monooxygenase against sample: 17A
+
+  Output written to BLASTN_avfA_cytochrome_P450_monooxygenase_17A.tab
+
+  Running blastn for avfA_cytochrome_P450_monooxygenase against sample: 18B
+
+  Output written to BLASTN_avfA_cytochrome_P450_monooxygenase_18B.tab
+
+  Running blastn for avfA_cytochrome_P450_monooxygenase against sample: 19B
+
+  Output written to BLASTN_avfA_cytochrome_P450_monooxygenase_19B.tab
+
+  Running blastn for avfA_cytochrome_P450_monooxygenase against sample: 1B
+
+  Output written to BLASTN_avfA_cytochrome_P450_monooxygenase_1B.tab
+
+  Running blastn for avfA_cytochrome_P450_monooxygenase against sample: 20B
+
+  Output written to BLASTN_avfA_cytochrome_P450_monooxygenase_20B.tab
+
+  Running blastn for avfA_cytochrome_P450_monooxygenase against sample: 22B
+
+  Output written to BLASTN_avfA_cytochrome_P450_monooxygenase_22B.tab
+
+  Running blastn for avfA_cytochrome_P450_monooxygenase against sample: 2A
+
+  Output written to BLASTN_avfA_cytochrome_P450_monooxygenase_2A.tab
+
+  Running blastn for avfA_cytochrome_P450_monooxygenase against sample: 3B
+
+  Output written to BLASTN_avfA_cytochrome_P450_monooxygenase_3B.tab
+
+  Running blastn for avfA_cytochrome_P450_monooxygenase against sample: 4B
+
+  Output written to BLASTN_avfA_cytochrome_P450_monooxygenase_4B.tab
+
+  Running blastn for avfA_cytochrome_P450_monooxygenase against sample: 5B
+
+  Output written to BLASTN_avfA_cytochrome_P450_monooxygenase_5B.tab
+
+  Running blastn for avfA_cytochrome_P450_monooxygenase against sample: 7B
+
+  Output written to BLASTN_avfA_cytochrome_P450_monooxygenase_7B.tab
+
+  Running blastn for avfA_cytochrome_P450_monooxygenase against sample: 9A
+
+  Output written to BLASTN_avfA_cytochrome_P450_monooxygenase_9A.tab
+
+Finished mapping gene: avfA_cytochrome_P450_monooxygenase
+------------------------------------------
+
+Mapping gene: avnA_cytochrome_P450_monooxygenase
+  Running blastn for avnA_cytochrome_P450_monooxygenase against sample: 10B
+
+  Output written to BLASTN_avnA_cytochrome_P450_monooxygenase_10B.tab
+
+  Running blastn for avnA_cytochrome_P450_monooxygenase against sample: 11B
+
+  Output written to BLASTN_avnA_cytochrome_P450_monooxygenase_11B.tab
+
+  Running blastn for avnA_cytochrome_P450_monooxygenase against sample: 12A
+
+  Output written to BLASTN_avnA_cytochrome_P450_monooxygenase_12A.tab
+
+  Running blastn for avnA_cytochrome_P450_monooxygenase against sample: 13B
+
+  Output written to BLASTN_avnA_cytochrome_P450_monooxygenase_13B.tab
+
+  Running blastn for avnA_cytochrome_P450_monooxygenase against sample: 15A
+
+  Output written to BLASTN_avnA_cytochrome_P450_monooxygenase_15A.tab
+
+  Running blastn for avnA_cytochrome_P450_monooxygenase against sample: 16A
+
+  Output written to BLASTN_avnA_cytochrome_P450_monooxygenase_16A.tab
+
+  Running blastn for avnA_cytochrome_P450_monooxygenase against sample: 17A
+
+  Output written to BLASTN_avnA_cytochrome_P450_monooxygenase_17A.tab
+
+  Running blastn for avnA_cytochrome_P450_monooxygenase against sample: 18B
+
+  Output written to BLASTN_avnA_cytochrome_P450_monooxygenase_18B.tab
+
+  Running blastn for avnA_cytochrome_P450_monooxygenase against sample: 19B
+
+  Output written to BLASTN_avnA_cytochrome_P450_monooxygenase_19B.tab
+
+  Running blastn for avnA_cytochrome_P450_monooxygenase against sample: 1B
+
+  Output written to BLASTN_avnA_cytochrome_P450_monooxygenase_1B.tab
+
+  Running blastn for avnA_cytochrome_P450_monooxygenase against sample: 20B
+
+  Output written to BLASTN_avnA_cytochrome_P450_monooxygenase_20B.tab
+
+  Running blastn for avnA_cytochrome_P450_monooxygenase against sample: 22B
+
+  Output written to BLASTN_avnA_cytochrome_P450_monooxygenase_22B.tab
+
+  Running blastn for avnA_cytochrome_P450_monooxygenase against sample: 2A
+
+  Output written to BLASTN_avnA_cytochrome_P450_monooxygenase_2A.tab
+
+  Running blastn for avnA_cytochrome_P450_monooxygenase against sample: 3B
+
+  Output written to BLASTN_avnA_cytochrome_P450_monooxygenase_3B.tab
+
+  Running blastn for avnA_cytochrome_P450_monooxygenase against sample: 4B
+
+  Output written to BLASTN_avnA_cytochrome_P450_monooxygenase_4B.tab
+
+  Running blastn for avnA_cytochrome_P450_monooxygenase against sample: 5B
+
+  Output written to BLASTN_avnA_cytochrome_P450_monooxygenase_5B.tab
+
+  Running blastn for avnA_cytochrome_P450_monooxygenase against sample: 7B
+
+  Output written to BLASTN_avnA_cytochrome_P450_monooxygenase_7B.tab
+
+  Running blastn for avnA_cytochrome_P450_monooxygenase against sample: 9A
+
+  Output written to BLASTN_avnA_cytochrome_P450_monooxygenase_9A.tab
+
+Finished mapping gene: avnA_cytochrome_P450_monooxygenase
+------------------------------------------
+
+Mapping gene: cypX_cytochrome_P450_monooxygenase
+  Running blastn for cypX_cytochrome_P450_monooxygenase against sample: 10B
+
+  Output written to BLASTN_cypX_cytochrome_P450_monooxygenase_10B.tab
+
+  Running blastn for cypX_cytochrome_P450_monooxygenase against sample: 11B
+
+  Output written to BLASTN_cypX_cytochrome_P450_monooxygenase_11B.tab
+
+  Running blastn for cypX_cytochrome_P450_monooxygenase against sample: 12A
+
+  Output written to BLASTN_cypX_cytochrome_P450_monooxygenase_12A.tab
+
+  Running blastn for cypX_cytochrome_P450_monooxygenase against sample: 13B
+
+  Output written to BLASTN_cypX_cytochrome_P450_monooxygenase_13B.tab
+
+  Running blastn for cypX_cytochrome_P450_monooxygenase against sample: 15A
+
+  Output written to BLASTN_cypX_cytochrome_P450_monooxygenase_15A.tab
+
+  Running blastn for cypX_cytochrome_P450_monooxygenase against sample: 16A
+
+  Output written to BLASTN_cypX_cytochrome_P450_monooxygenase_16A.tab
+
+  Running blastn for cypX_cytochrome_P450_monooxygenase against sample: 17A
+
+  Output written to BLASTN_cypX_cytochrome_P450_monooxygenase_17A.tab
+
+  Running blastn for cypX_cytochrome_P450_monooxygenase against sample: 18B
+
+  Output written to BLASTN_cypX_cytochrome_P450_monooxygenase_18B.tab
+
+  Running blastn for cypX_cytochrome_P450_monooxygenase against sample: 19B
+
+  Output written to BLASTN_cypX_cytochrome_P450_monooxygenase_19B.tab
+
+  Running blastn for cypX_cytochrome_P450_monooxygenase against sample: 1B
+
+  Output written to BLASTN_cypX_cytochrome_P450_monooxygenase_1B.tab
+
+  Running blastn for cypX_cytochrome_P450_monooxygenase against sample: 20B
+
+  Output written to BLASTN_cypX_cytochrome_P450_monooxygenase_20B.tab
+
+  Running blastn for cypX_cytochrome_P450_monooxygenase against sample: 22B
+
+  Output written to BLASTN_cypX_cytochrome_P450_monooxygenase_22B.tab
+
+  Running blastn for cypX_cytochrome_P450_monooxygenase against sample: 2A
+
+  Output written to BLASTN_cypX_cytochrome_P450_monooxygenase_2A.tab
+
+  Running blastn for cypX_cytochrome_P450_monooxygenase against sample: 3B
+
+  Output written to BLASTN_cypX_cytochrome_P450_monooxygenase_3B.tab
+
+  Running blastn for cypX_cytochrome_P450_monooxygenase against sample: 4B
+
+  Output written to BLASTN_cypX_cytochrome_P450_monooxygenase_4B.tab
+
+  Running blastn for cypX_cytochrome_P450_monooxygenase against sample: 5B
+
+  Output written to BLASTN_cypX_cytochrome_P450_monooxygenase_5B.tab
+
+  Running blastn for cypX_cytochrome_P450_monooxygenase against sample: 7B
+
+  Output written to BLASTN_cypX_cytochrome_P450_monooxygenase_7B.tab
+
+  Running blastn for cypX_cytochrome_P450_monooxygenase against sample: 9A
+
+  Output written to BLASTN_cypX_cytochrome_P450_monooxygenase_9A.tab
+
+Finished mapping gene: cypX_cytochrome_P450_monooxygenase
+------------------------------------------
+
+Mapping gene: estA_esterase
+  Running blastn for estA_esterase against sample: 10B
+
+  Output written to BLASTN_estA_esterase_10B.tab
+
+  Running blastn for estA_esterase against sample: 11B
+
+  Output written to BLASTN_estA_esterase_11B.tab
+
+  Running blastn for estA_esterase against sample: 12A
+
+  Output written to BLASTN_estA_esterase_12A.tab
+
+  Running blastn for estA_esterase against sample: 13B
+
+  Output written to BLASTN_estA_esterase_13B.tab
+
+  Running blastn for estA_esterase against sample: 15A
+
+  Output written to BLASTN_estA_esterase_15A.tab
+
+  Running blastn for estA_esterase against sample: 16A
+
+  Output written to BLASTN_estA_esterase_16A.tab
+
+  Running blastn for estA_esterase against sample: 17A
+
+  Output written to BLASTN_estA_esterase_17A.tab
+
+  Running blastn for estA_esterase against sample: 18B
+
+  Output written to BLASTN_estA_esterase_18B.tab
+
+  Running blastn for estA_esterase against sample: 19B
+
+  Output written to BLASTN_estA_esterase_19B.tab
+
+  Running blastn for estA_esterase against sample: 1B
+
+  Output written to BLASTN_estA_esterase_1B.tab
+
+  Running blastn for estA_esterase against sample: 20B
+
+  Output written to BLASTN_estA_esterase_20B.tab
+
+  Running blastn for estA_esterase against sample: 22B
+
+  Output written to BLASTN_estA_esterase_22B.tab
+
+  Running blastn for estA_esterase against sample: 2A
+
+  Output written to BLASTN_estA_esterase_2A.tab
+
+  Running blastn for estA_esterase against sample: 3B
+
+  Output written to BLASTN_estA_esterase_3B.tab
+
+  Running blastn for estA_esterase against sample: 4B
+
+  Output written to BLASTN_estA_esterase_4B.tab
+
+  Running blastn for estA_esterase against sample: 5B
+
+  Output written to BLASTN_estA_esterase_5B.tab
+
+  Running blastn for estA_esterase against sample: 7B
+
+  Output written to BLASTN_estA_esterase_7B.tab
+
+  Running blastn for estA_esterase against sample: 9A
+
+  Output written to BLASTN_estA_esterase_9A.tab
+
+Finished mapping gene: estA_esterase
+------------------------------------------
+
+Mapping gene: fas-1_hexB_fatty_acid_synthase_beta_subunit
+  Running blastn for fas-1_hexB_fatty_acid_synthase_beta_subunit against sample: 10B
+
+  Output written to BLASTN_fas-1_hexB_fatty_acid_synthase_beta_subunit_10B.tab
+
+  Running blastn for fas-1_hexB_fatty_acid_synthase_beta_subunit against sample: 11B
+
+  Output written to BLASTN_fas-1_hexB_fatty_acid_synthase_beta_subunit_11B.tab
+
+  Running blastn for fas-1_hexB_fatty_acid_synthase_beta_subunit against sample: 12A
+
+  Output written to BLASTN_fas-1_hexB_fatty_acid_synthase_beta_subunit_12A.tab
+
+  Running blastn for fas-1_hexB_fatty_acid_synthase_beta_subunit against sample: 13B
+
+  Output written to BLASTN_fas-1_hexB_fatty_acid_synthase_beta_subunit_13B.tab
+
+  Running blastn for fas-1_hexB_fatty_acid_synthase_beta_subunit against sample: 15A
+
+  Output written to BLASTN_fas-1_hexB_fatty_acid_synthase_beta_subunit_15A.tab
+
+  Running blastn for fas-1_hexB_fatty_acid_synthase_beta_subunit against sample: 16A
+
+  Output written to BLASTN_fas-1_hexB_fatty_acid_synthase_beta_subunit_16A.tab
+
+  Running blastn for fas-1_hexB_fatty_acid_synthase_beta_subunit against sample: 17A
+
+  Output written to BLASTN_fas-1_hexB_fatty_acid_synthase_beta_subunit_17A.tab
+
+  Running blastn for fas-1_hexB_fatty_acid_synthase_beta_subunit against sample: 18B
+
+  Output written to BLASTN_fas-1_hexB_fatty_acid_synthase_beta_subunit_18B.tab
+
+  Running blastn for fas-1_hexB_fatty_acid_synthase_beta_subunit against sample: 19B
+
+  Output written to BLASTN_fas-1_hexB_fatty_acid_synthase_beta_subunit_19B.tab
+
+  Running blastn for fas-1_hexB_fatty_acid_synthase_beta_subunit against sample: 1B
+
+  Output written to BLASTN_fas-1_hexB_fatty_acid_synthase_beta_subunit_1B.tab
+
+  Running blastn for fas-1_hexB_fatty_acid_synthase_beta_subunit against sample: 20B
+
+  Output written to BLASTN_fas-1_hexB_fatty_acid_synthase_beta_subunit_20B.tab
+
+  Running blastn for fas-1_hexB_fatty_acid_synthase_beta_subunit against sample: 22B
+
+  Output written to BLASTN_fas-1_hexB_fatty_acid_synthase_beta_subunit_22B.tab
+
+  Running blastn for fas-1_hexB_fatty_acid_synthase_beta_subunit against sample: 2A
+
+  Output written to BLASTN_fas-1_hexB_fatty_acid_synthase_beta_subunit_2A.tab
+
+  Running blastn for fas-1_hexB_fatty_acid_synthase_beta_subunit against sample: 3B
+
+  Output written to BLASTN_fas-1_hexB_fatty_acid_synthase_beta_subunit_3B.tab
+
+  Running blastn for fas-1_hexB_fatty_acid_synthase_beta_subunit against sample: 4B
+
+  Output written to BLASTN_fas-1_hexB_fatty_acid_synthase_beta_subunit_4B.tab
+
+  Running blastn for fas-1_hexB_fatty_acid_synthase_beta_subunit against sample: 5B
+
+  Output written to BLASTN_fas-1_hexB_fatty_acid_synthase_beta_subunit_5B.tab
+
+  Running blastn for fas-1_hexB_fatty_acid_synthase_beta_subunit against sample: 7B
+
+  Output written to BLASTN_fas-1_hexB_fatty_acid_synthase_beta_subunit_7B.tab
+
+  Running blastn for fas-1_hexB_fatty_acid_synthase_beta_subunit against sample: 9A
+
+  Output written to BLASTN_fas-1_hexB_fatty_acid_synthase_beta_subunit_9A.tab
+
+Finished mapping gene: fas-1_hexB_fatty_acid_synthase_beta_subunit
+------------------------------------------
+
+Mapping gene: fas-2_hexA_fatty_acid_synthase_alpha_subunit
+  Running blastn for fas-2_hexA_fatty_acid_synthase_alpha_subunit against sample: 10B
+
+  Output written to BLASTN_fas-2_hexA_fatty_acid_synthase_alpha_subunit_10B.tab
+
+  Running blastn for fas-2_hexA_fatty_acid_synthase_alpha_subunit against sample: 11B
+
+  Output written to BLASTN_fas-2_hexA_fatty_acid_synthase_alpha_subunit_11B.tab
+
+  Running blastn for fas-2_hexA_fatty_acid_synthase_alpha_subunit against sample: 12A
+
+  Output written to BLASTN_fas-2_hexA_fatty_acid_synthase_alpha_subunit_12A.tab
+
+  Running blastn for fas-2_hexA_fatty_acid_synthase_alpha_subunit against sample: 13B
+
+  Output written to BLASTN_fas-2_hexA_fatty_acid_synthase_alpha_subunit_13B.tab
+
+  Running blastn for fas-2_hexA_fatty_acid_synthase_alpha_subunit against sample: 15A
+
+  Output written to BLASTN_fas-2_hexA_fatty_acid_synthase_alpha_subunit_15A.tab
+
+  Running blastn for fas-2_hexA_fatty_acid_synthase_alpha_subunit against sample: 16A
+
+  Output written to BLASTN_fas-2_hexA_fatty_acid_synthase_alpha_subunit_16A.tab
+
+  Running blastn for fas-2_hexA_fatty_acid_synthase_alpha_subunit against sample: 17A
+
+  Output written to BLASTN_fas-2_hexA_fatty_acid_synthase_alpha_subunit_17A.tab
+
+  Running blastn for fas-2_hexA_fatty_acid_synthase_alpha_subunit against sample: 18B
+
+  Output written to BLASTN_fas-2_hexA_fatty_acid_synthase_alpha_subunit_18B.tab
+
+  Running blastn for fas-2_hexA_fatty_acid_synthase_alpha_subunit against sample: 19B
+
+  Output written to BLASTN_fas-2_hexA_fatty_acid_synthase_alpha_subunit_19B.tab
+
+  Running blastn for fas-2_hexA_fatty_acid_synthase_alpha_subunit against sample: 1B
+
+  Output written to BLASTN_fas-2_hexA_fatty_acid_synthase_alpha_subunit_1B.tab
+
+  Running blastn for fas-2_hexA_fatty_acid_synthase_alpha_subunit against sample: 20B
+
+  Output written to BLASTN_fas-2_hexA_fatty_acid_synthase_alpha_subunit_20B.tab
+
+  Running blastn for fas-2_hexA_fatty_acid_synthase_alpha_subunit against sample: 22B
+
+  Output written to BLASTN_fas-2_hexA_fatty_acid_synthase_alpha_subunit_22B.tab
+
+  Running blastn for fas-2_hexA_fatty_acid_synthase_alpha_subunit against sample: 2A
+
+  Output written to BLASTN_fas-2_hexA_fatty_acid_synthase_alpha_subunit_2A.tab
+
+  Running blastn for fas-2_hexA_fatty_acid_synthase_alpha_subunit against sample: 3B
+
+  Output written to BLASTN_fas-2_hexA_fatty_acid_synthase_alpha_subunit_3B.tab
+
+  Running blastn for fas-2_hexA_fatty_acid_synthase_alpha_subunit against sample: 4B
+
+  Output written to BLASTN_fas-2_hexA_fatty_acid_synthase_alpha_subunit_4B.tab
+
+  Running blastn for fas-2_hexA_fatty_acid_synthase_alpha_subunit against sample: 5B
+
+  Output written to BLASTN_fas-2_hexA_fatty_acid_synthase_alpha_subunit_5B.tab
+
+  Running blastn for fas-2_hexA_fatty_acid_synthase_alpha_subunit against sample: 7B
+
+  Output written to BLASTN_fas-2_hexA_fatty_acid_synthase_alpha_subunit_7B.tab
+
+  Running blastn for fas-2_hexA_fatty_acid_synthase_alpha_subunit against sample: 9A
+
+  Output written to BLASTN_fas-2_hexA_fatty_acid_synthase_alpha_subunit_9A.tab
+
+Finished mapping gene: fas-2_hexA_fatty_acid_synthase_alpha_subunit
+------------------------------------------
+
+Mapping gene: moxY_cytochrome_P450_monooxygenase_putative_monooxygenase
+  Running blastn for moxY_cytochrome_P450_monooxygenase_putative_monooxygenase against sample: 10B
+
+  Output written to BLASTN_moxY_cytochrome_P450_monooxygenase_putative_monooxygenase_10B.tab
+
+  Running blastn for moxY_cytochrome_P450_monooxygenase_putative_monooxygenase against sample: 11B
+
+  Output written to BLASTN_moxY_cytochrome_P450_monooxygenase_putative_monooxygenase_11B.tab
+
+  Running blastn for moxY_cytochrome_P450_monooxygenase_putative_monooxygenase against sample: 12A
+
+  Output written to BLASTN_moxY_cytochrome_P450_monooxygenase_putative_monooxygenase_12A.tab
+
+  Running blastn for moxY_cytochrome_P450_monooxygenase_putative_monooxygenase against sample: 13B
+
+  Output written to BLASTN_moxY_cytochrome_P450_monooxygenase_putative_monooxygenase_13B.tab
+
+  Running blastn for moxY_cytochrome_P450_monooxygenase_putative_monooxygenase against sample: 15A
+
+  Output written to BLASTN_moxY_cytochrome_P450_monooxygenase_putative_monooxygenase_15A.tab
+
+  Running blastn for moxY_cytochrome_P450_monooxygenase_putative_monooxygenase against sample: 16A
+
+  Output written to BLASTN_moxY_cytochrome_P450_monooxygenase_putative_monooxygenase_16A.tab
+
+  Running blastn for moxY_cytochrome_P450_monooxygenase_putative_monooxygenase against sample: 17A
+
+  Output written to BLASTN_moxY_cytochrome_P450_monooxygenase_putative_monooxygenase_17A.tab
+
+  Running blastn for moxY_cytochrome_P450_monooxygenase_putative_monooxygenase against sample: 18B
+
+  Output written to BLASTN_moxY_cytochrome_P450_monooxygenase_putative_monooxygenase_18B.tab
+
+  Running blastn for moxY_cytochrome_P450_monooxygenase_putative_monooxygenase against sample: 19B
+
+  Output written to BLASTN_moxY_cytochrome_P450_monooxygenase_putative_monooxygenase_19B.tab
+
+  Running blastn for moxY_cytochrome_P450_monooxygenase_putative_monooxygenase against sample: 1B
+
+  Output written to BLASTN_moxY_cytochrome_P450_monooxygenase_putative_monooxygenase_1B.tab
+
+  Running blastn for moxY_cytochrome_P450_monooxygenase_putative_monooxygenase against sample: 20B
+
+  Output written to BLASTN_moxY_cytochrome_P450_monooxygenase_putative_monooxygenase_20B.tab
+
+  Running blastn for moxY_cytochrome_P450_monooxygenase_putative_monooxygenase against sample: 22B
+
+  Output written to BLASTN_moxY_cytochrome_P450_monooxygenase_putative_monooxygenase_22B.tab
+
+  Running blastn for moxY_cytochrome_P450_monooxygenase_putative_monooxygenase against sample: 2A
+
+  Output written to BLASTN_moxY_cytochrome_P450_monooxygenase_putative_monooxygenase_2A.tab
+
+  Running blastn for moxY_cytochrome_P450_monooxygenase_putative_monooxygenase against sample: 3B
+
+  Output written to BLASTN_moxY_cytochrome_P450_monooxygenase_putative_monooxygenase_3B.tab
+
+  Running blastn for moxY_cytochrome_P450_monooxygenase_putative_monooxygenase against sample: 4B
+
+  Output written to BLASTN_moxY_cytochrome_P450_monooxygenase_putative_monooxygenase_4B.tab
+
+  Running blastn for moxY_cytochrome_P450_monooxygenase_putative_monooxygenase against sample: 5B
+
+  Output written to BLASTN_moxY_cytochrome_P450_monooxygenase_putative_monooxygenase_5B.tab
+
+  Running blastn for moxY_cytochrome_P450_monooxygenase_putative_monooxygenase against sample: 7B
+
+  Output written to BLASTN_moxY_cytochrome_P450_monooxygenase_putative_monooxygenase_7B.tab
+
+  Running blastn for moxY_cytochrome_P450_monooxygenase_putative_monooxygenase against sample: 9A
+
+  Output written to BLASTN_moxY_cytochrome_P450_monooxygenase_putative_monooxygenase_9A.tab
+
+Finished mapping gene: moxY_cytochrome_P450_monooxygenase_putative_monooxygenase
+------------------------------------------
+
+Mapping gene: nor-1_norsolorinic_acid_reductase
+  Running blastn for nor-1_norsolorinic_acid_reductase against sample: 10B
+
+  Output written to BLASTN_nor-1_norsolorinic_acid_reductase_10B.tab
+
+  Running blastn for nor-1_norsolorinic_acid_reductase against sample: 11B
+
+  Output written to BLASTN_nor-1_norsolorinic_acid_reductase_11B.tab
+
+  Running blastn for nor-1_norsolorinic_acid_reductase against sample: 12A
+
+  Output written to BLASTN_nor-1_norsolorinic_acid_reductase_12A.tab
+
+  Running blastn for nor-1_norsolorinic_acid_reductase against sample: 13B
+
+  Output written to BLASTN_nor-1_norsolorinic_acid_reductase_13B.tab
+
+  Running blastn for nor-1_norsolorinic_acid_reductase against sample: 15A
+
+  Output written to BLASTN_nor-1_norsolorinic_acid_reductase_15A.tab
+
+  Running blastn for nor-1_norsolorinic_acid_reductase against sample: 16A
+
+  Output written to BLASTN_nor-1_norsolorinic_acid_reductase_16A.tab
+
+  Running blastn for nor-1_norsolorinic_acid_reductase against sample: 17A
+
+  Output written to BLASTN_nor-1_norsolorinic_acid_reductase_17A.tab
+
+  Running blastn for nor-1_norsolorinic_acid_reductase against sample: 18B
+
+  Output written to BLASTN_nor-1_norsolorinic_acid_reductase_18B.tab
+
+  Running blastn for nor-1_norsolorinic_acid_reductase against sample: 19B
+
+  Output written to BLASTN_nor-1_norsolorinic_acid_reductase_19B.tab
+
+  Running blastn for nor-1_norsolorinic_acid_reductase against sample: 1B
+
+  Output written to BLASTN_nor-1_norsolorinic_acid_reductase_1B.tab
+
+  Running blastn for nor-1_norsolorinic_acid_reductase against sample: 20B
+
+  Output written to BLASTN_nor-1_norsolorinic_acid_reductase_20B.tab
+
+  Running blastn for nor-1_norsolorinic_acid_reductase against sample: 22B
+
+  Output written to BLASTN_nor-1_norsolorinic_acid_reductase_22B.tab
+
+  Running blastn for nor-1_norsolorinic_acid_reductase against sample: 2A
+
+  Output written to BLASTN_nor-1_norsolorinic_acid_reductase_2A.tab
+
+  Running blastn for nor-1_norsolorinic_acid_reductase against sample: 3B
+
+  Output written to BLASTN_nor-1_norsolorinic_acid_reductase_3B.tab
+
+  Running blastn for nor-1_norsolorinic_acid_reductase against sample: 4B
+
+  Output written to BLASTN_nor-1_norsolorinic_acid_reductase_4B.tab
+
+  Running blastn for nor-1_norsolorinic_acid_reductase against sample: 5B
+
+  Output written to BLASTN_nor-1_norsolorinic_acid_reductase_5B.tab
+
+  Running blastn for nor-1_norsolorinic_acid_reductase against sample: 7B
+
+  Output written to BLASTN_nor-1_norsolorinic_acid_reductase_7B.tab
+
+  Running blastn for nor-1_norsolorinic_acid_reductase against sample: 9A
+
+  Output written to BLASTN_nor-1_norsolorinic_acid_reductase_9A.tab
+
+Finished mapping gene: nor-1_norsolorinic_acid_reductase
+------------------------------------------
+
+Mapping gene: norA_reductase_dehydrogenase
+  Running blastn for norA_reductase_dehydrogenase against sample: 10B
+
+  Output written to BLASTN_norA_reductase_dehydrogenase_10B.tab
+
+  Running blastn for norA_reductase_dehydrogenase against sample: 11B
+
+  Output written to BLASTN_norA_reductase_dehydrogenase_11B.tab
+
+  Running blastn for norA_reductase_dehydrogenase against sample: 12A
+
+  Output written to BLASTN_norA_reductase_dehydrogenase_12A.tab
+
+  Running blastn for norA_reductase_dehydrogenase against sample: 13B
+
+  Output written to BLASTN_norA_reductase_dehydrogenase_13B.tab
+
+  Running blastn for norA_reductase_dehydrogenase against sample: 15A
+
+  Output written to BLASTN_norA_reductase_dehydrogenase_15A.tab
+
+  Running blastn for norA_reductase_dehydrogenase against sample: 16A
+
+  Output written to BLASTN_norA_reductase_dehydrogenase_16A.tab
+
+  Running blastn for norA_reductase_dehydrogenase against sample: 17A
+
+  Output written to BLASTN_norA_reductase_dehydrogenase_17A.tab
+
+  Running blastn for norA_reductase_dehydrogenase against sample: 18B
+
+  Output written to BLASTN_norA_reductase_dehydrogenase_18B.tab
+
+  Running blastn for norA_reductase_dehydrogenase against sample: 19B
+
+  Output written to BLASTN_norA_reductase_dehydrogenase_19B.tab
+
+  Running blastn for norA_reductase_dehydrogenase against sample: 1B
+
+  Output written to BLASTN_norA_reductase_dehydrogenase_1B.tab
+
+  Running blastn for norA_reductase_dehydrogenase against sample: 20B
+
+  Output written to BLASTN_norA_reductase_dehydrogenase_20B.tab
+
+  Running blastn for norA_reductase_dehydrogenase against sample: 22B
+
+  Output written to BLASTN_norA_reductase_dehydrogenase_22B.tab
+
+  Running blastn for norA_reductase_dehydrogenase against sample: 2A
+
+  Output written to BLASTN_norA_reductase_dehydrogenase_2A.tab
+
+  Running blastn for norA_reductase_dehydrogenase against sample: 3B
+
+  Output written to BLASTN_norA_reductase_dehydrogenase_3B.tab
+
+  Running blastn for norA_reductase_dehydrogenase against sample: 4B
+
+  Output written to BLASTN_norA_reductase_dehydrogenase_4B.tab
+
+  Running blastn for norA_reductase_dehydrogenase against sample: 5B
+
+  Output written to BLASTN_norA_reductase_dehydrogenase_5B.tab
+
+  Running blastn for norA_reductase_dehydrogenase against sample: 7B
+
+  Output written to BLASTN_norA_reductase_dehydrogenase_7B.tab
+
+  Running blastn for norA_reductase_dehydrogenase against sample: 9A
+
+  Output written to BLASTN_norA_reductase_dehydrogenase_9A.tab
+
+Finished mapping gene: norA_reductase_dehydrogenase
+------------------------------------------
+
+Mapping gene: omtA_O-methyltransferase_A
+  Running blastn for omtA_O-methyltransferase_A against sample: 10B
+
+  Output written to BLASTN_omtA_O-methyltransferase_A_10B.tab
+
+  Running blastn for omtA_O-methyltransferase_A against sample: 11B
+
+  Output written to BLASTN_omtA_O-methyltransferase_A_11B.tab
+
+  Running blastn for omtA_O-methyltransferase_A against sample: 12A
+
+  Output written to BLASTN_omtA_O-methyltransferase_A_12A.tab
+
+  Running blastn for omtA_O-methyltransferase_A against sample: 13B
+
+  Output written to BLASTN_omtA_O-methyltransferase_A_13B.tab
+
+  Running blastn for omtA_O-methyltransferase_A against sample: 15A
+
+  Output written to BLASTN_omtA_O-methyltransferase_A_15A.tab
+
+  Running blastn for omtA_O-methyltransferase_A against sample: 16A
+
+  Output written to BLASTN_omtA_O-methyltransferase_A_16A.tab
+
+  Running blastn for omtA_O-methyltransferase_A against sample: 17A
+
+  Output written to BLASTN_omtA_O-methyltransferase_A_17A.tab
+
+  Running blastn for omtA_O-methyltransferase_A against sample: 18B
+
+  Output written to BLASTN_omtA_O-methyltransferase_A_18B.tab
+
+  Running blastn for omtA_O-methyltransferase_A against sample: 19B
+
+  Output written to BLASTN_omtA_O-methyltransferase_A_19B.tab
+
+  Running blastn for omtA_O-methyltransferase_A against sample: 1B
+
+  Output written to BLASTN_omtA_O-methyltransferase_A_1B.tab
+
+  Running blastn for omtA_O-methyltransferase_A against sample: 20B
+
+  Output written to BLASTN_omtA_O-methyltransferase_A_20B.tab
+
+  Running blastn for omtA_O-methyltransferase_A against sample: 22B
+
+  Output written to BLASTN_omtA_O-methyltransferase_A_22B.tab
+
+  Running blastn for omtA_O-methyltransferase_A against sample: 2A
+
+  Output written to BLASTN_omtA_O-methyltransferase_A_2A.tab
+
+  Running blastn for omtA_O-methyltransferase_A against sample: 3B
+
+  Output written to BLASTN_omtA_O-methyltransferase_A_3B.tab
+
+  Running blastn for omtA_O-methyltransferase_A against sample: 4B
+
+  Output written to BLASTN_omtA_O-methyltransferase_A_4B.tab
+
+  Running blastn for omtA_O-methyltransferase_A against sample: 5B
+
+  Output written to BLASTN_omtA_O-methyltransferase_A_5B.tab
+
+  Running blastn for omtA_O-methyltransferase_A against sample: 7B
+
+  Output written to BLASTN_omtA_O-methyltransferase_A_7B.tab
+
+  Running blastn for omtA_O-methyltransferase_A against sample: 9A
+
+  Output written to BLASTN_omtA_O-methyltransferase_A_9A.tab
+
+Finished mapping gene: omtA_O-methyltransferase_A
+------------------------------------------
+
+Mapping gene: omtB_O-methyltransferase_B
+  Running blastn for omtB_O-methyltransferase_B against sample: 10B
+
+  Output written to BLASTN_omtB_O-methyltransferase_B_10B.tab
+
+  Running blastn for omtB_O-methyltransferase_B against sample: 11B
+
+  Output written to BLASTN_omtB_O-methyltransferase_B_11B.tab
+
+  Running blastn for omtB_O-methyltransferase_B against sample: 12A
+
+  Output written to BLASTN_omtB_O-methyltransferase_B_12A.tab
+
+  Running blastn for omtB_O-methyltransferase_B against sample: 13B
+
+  Output written to BLASTN_omtB_O-methyltransferase_B_13B.tab
+
+  Running blastn for omtB_O-methyltransferase_B against sample: 15A
+
+  Output written to BLASTN_omtB_O-methyltransferase_B_15A.tab
+
+  Running blastn for omtB_O-methyltransferase_B against sample: 16A
+
+  Output written to BLASTN_omtB_O-methyltransferase_B_16A.tab
+
+  Running blastn for omtB_O-methyltransferase_B against sample: 17A
+
+  Output written to BLASTN_omtB_O-methyltransferase_B_17A.tab
+
+  Running blastn for omtB_O-methyltransferase_B against sample: 18B
+
+  Output written to BLASTN_omtB_O-methyltransferase_B_18B.tab
+
+  Running blastn for omtB_O-methyltransferase_B against sample: 19B
+
+  Output written to BLASTN_omtB_O-methyltransferase_B_19B.tab
+
+  Running blastn for omtB_O-methyltransferase_B against sample: 1B
+
+  Output written to BLASTN_omtB_O-methyltransferase_B_1B.tab
+
+  Running blastn for omtB_O-methyltransferase_B against sample: 20B
+
+  Output written to BLASTN_omtB_O-methyltransferase_B_20B.tab
+
+  Running blastn for omtB_O-methyltransferase_B against sample: 22B
+
+  Output written to BLASTN_omtB_O-methyltransferase_B_22B.tab
+
+  Running blastn for omtB_O-methyltransferase_B against sample: 2A
+
+  Output written to BLASTN_omtB_O-methyltransferase_B_2A.tab
+
+  Running blastn for omtB_O-methyltransferase_B against sample: 3B
+
+  Output written to BLASTN_omtB_O-methyltransferase_B_3B.tab
+
+  Running blastn for omtB_O-methyltransferase_B against sample: 4B
+
+  Output written to BLASTN_omtB_O-methyltransferase_B_4B.tab
+
+  Running blastn for omtB_O-methyltransferase_B against sample: 5B
+
+  Output written to BLASTN_omtB_O-methyltransferase_B_5B.tab
+
+  Running blastn for omtB_O-methyltransferase_B against sample: 7B
+
+  Output written to BLASTN_omtB_O-methyltransferase_B_7B.tab
+
+  Running blastn for omtB_O-methyltransferase_B against sample: 9A
+
+  Output written to BLASTN_omtB_O-methyltransferase_B_9A.tab
+
+Finished mapping gene: omtB_O-methyltransferase_B
+------------------------------------------
+
+Mapping gene: ordA_oxidoreductase_cytochrome_P450_monooxygenase
+  Running blastn for ordA_oxidoreductase_cytochrome_P450_monooxygenase against sample: 10B
+
+  Output written to BLASTN_ordA_oxidoreductase_cytochrome_P450_monooxygenase_10B.tab
+
+  Running blastn for ordA_oxidoreductase_cytochrome_P450_monooxygenase against sample: 11B
+
+  Output written to BLASTN_ordA_oxidoreductase_cytochrome_P450_monooxygenase_11B.tab
+
+  Running blastn for ordA_oxidoreductase_cytochrome_P450_monooxygenase against sample: 12A
+
+  Output written to BLASTN_ordA_oxidoreductase_cytochrome_P450_monooxygenase_12A.tab
+
+  Running blastn for ordA_oxidoreductase_cytochrome_P450_monooxygenase against sample: 13B
+
+  Output written to BLASTN_ordA_oxidoreductase_cytochrome_P450_monooxygenase_13B.tab
+
+  Running blastn for ordA_oxidoreductase_cytochrome_P450_monooxygenase against sample: 15A
+
+  Output written to BLASTN_ordA_oxidoreductase_cytochrome_P450_monooxygenase_15A.tab
+
+  Running blastn for ordA_oxidoreductase_cytochrome_P450_monooxygenase against sample: 16A
+
+  Output written to BLASTN_ordA_oxidoreductase_cytochrome_P450_monooxygenase_16A.tab
+
+  Running blastn for ordA_oxidoreductase_cytochrome_P450_monooxygenase against sample: 17A
+
+  Output written to BLASTN_ordA_oxidoreductase_cytochrome_P450_monooxygenase_17A.tab
+
+  Running blastn for ordA_oxidoreductase_cytochrome_P450_monooxygenase against sample: 18B
+
+  Output written to BLASTN_ordA_oxidoreductase_cytochrome_P450_monooxygenase_18B.tab
+
+  Running blastn for ordA_oxidoreductase_cytochrome_P450_monooxygenase against sample: 19B
+
+  Output written to BLASTN_ordA_oxidoreductase_cytochrome_P450_monooxygenase_19B.tab
+
+  Running blastn for ordA_oxidoreductase_cytochrome_P450_monooxygenase against sample: 1B
+
+  Output written to BLASTN_ordA_oxidoreductase_cytochrome_P450_monooxygenase_1B.tab
+
+  Running blastn for ordA_oxidoreductase_cytochrome_P450_monooxygenase against sample: 20B
+
+  Output written to BLASTN_ordA_oxidoreductase_cytochrome_P450_monooxygenase_20B.tab
+
+  Running blastn for ordA_oxidoreductase_cytochrome_P450_monooxygenase against sample: 22B
+
+  Output written to BLASTN_ordA_oxidoreductase_cytochrome_P450_monooxygenase_22B.tab
+
+  Running blastn for ordA_oxidoreductase_cytochrome_P450_monooxygenase against sample: 2A
+
+  Output written to BLASTN_ordA_oxidoreductase_cytochrome_P450_monooxygenase_2A.tab
+
+  Running blastn for ordA_oxidoreductase_cytochrome_P450_monooxygenase against sample: 3B
+
+  Output written to BLASTN_ordA_oxidoreductase_cytochrome_P450_monooxygenase_3B.tab
+
+  Running blastn for ordA_oxidoreductase_cytochrome_P450_monooxygenase against sample: 4B
+
+  Output written to BLASTN_ordA_oxidoreductase_cytochrome_P450_monooxygenase_4B.tab
+
+  Running blastn for ordA_oxidoreductase_cytochrome_P450_monooxygenase against sample: 5B
+
+  Output written to BLASTN_ordA_oxidoreductase_cytochrome_P450_monooxygenase_5B.tab
+
+  Running blastn for ordA_oxidoreductase_cytochrome_P450_monooxygenase against sample: 7B
+
+  Output written to BLASTN_ordA_oxidoreductase_cytochrome_P450_monooxygenase_7B.tab
+
+  Running blastn for ordA_oxidoreductase_cytochrome_P450_monooxygenase against sample: 9A
+
+  Output written to BLASTN_ordA_oxidoreductase_cytochrome_P450_monooxygenase_9A.tab
+
+Finished mapping gene: ordA_oxidoreductase_cytochrome_P450_monooxygenase
+------------------------------------------
+
+Mapping gene: ordB_oxidoreductase_B_cytochrome_P450_monooxygenase
+  Running blastn for ordB_oxidoreductase_B_cytochrome_P450_monooxygenase against sample: 10B
+
+  Output written to BLASTN_ordB_oxidoreductase_B_cytochrome_P450_monooxygenase_10B.tab
+
+  Running blastn for ordB_oxidoreductase_B_cytochrome_P450_monooxygenase against sample: 11B
+
+  Output written to BLASTN_ordB_oxidoreductase_B_cytochrome_P450_monooxygenase_11B.tab
+
+  Running blastn for ordB_oxidoreductase_B_cytochrome_P450_monooxygenase against sample: 12A
+
+  Output written to BLASTN_ordB_oxidoreductase_B_cytochrome_P450_monooxygenase_12A.tab
+
+  Running blastn for ordB_oxidoreductase_B_cytochrome_P450_monooxygenase against sample: 13B
+
+  Output written to BLASTN_ordB_oxidoreductase_B_cytochrome_P450_monooxygenase_13B.tab
+
+  Running blastn for ordB_oxidoreductase_B_cytochrome_P450_monooxygenase against sample: 15A
+
+  Output written to BLASTN_ordB_oxidoreductase_B_cytochrome_P450_monooxygenase_15A.tab
+
+  Running blastn for ordB_oxidoreductase_B_cytochrome_P450_monooxygenase against sample: 16A
+
+  Output written to BLASTN_ordB_oxidoreductase_B_cytochrome_P450_monooxygenase_16A.tab
+
+  Running blastn for ordB_oxidoreductase_B_cytochrome_P450_monooxygenase against sample: 17A
+
+  Output written to BLASTN_ordB_oxidoreductase_B_cytochrome_P450_monooxygenase_17A.tab
+
+  Running blastn for ordB_oxidoreductase_B_cytochrome_P450_monooxygenase against sample: 18B
+
+  Output written to BLASTN_ordB_oxidoreductase_B_cytochrome_P450_monooxygenase_18B.tab
+
+  Running blastn for ordB_oxidoreductase_B_cytochrome_P450_monooxygenase against sample: 19B
+
+  Output written to BLASTN_ordB_oxidoreductase_B_cytochrome_P450_monooxygenase_19B.tab
+
+  Running blastn for ordB_oxidoreductase_B_cytochrome_P450_monooxygenase against sample: 1B
+
+  Output written to BLASTN_ordB_oxidoreductase_B_cytochrome_P450_monooxygenase_1B.tab
+
+  Running blastn for ordB_oxidoreductase_B_cytochrome_P450_monooxygenase against sample: 20B
+
+  Output written to BLASTN_ordB_oxidoreductase_B_cytochrome_P450_monooxygenase_20B.tab
+
+  Running blastn for ordB_oxidoreductase_B_cytochrome_P450_monooxygenase against sample: 22B
+
+  Output written to BLASTN_ordB_oxidoreductase_B_cytochrome_P450_monooxygenase_22B.tab
+
+  Running blastn for ordB_oxidoreductase_B_cytochrome_P450_monooxygenase against sample: 2A
+
+  Output written to BLASTN_ordB_oxidoreductase_B_cytochrome_P450_monooxygenase_2A.tab
+
+  Running blastn for ordB_oxidoreductase_B_cytochrome_P450_monooxygenase against sample: 3B
+
+  Output written to BLASTN_ordB_oxidoreductase_B_cytochrome_P450_monooxygenase_3B.tab
+
+  Running blastn for ordB_oxidoreductase_B_cytochrome_P450_monooxygenase against sample: 4B
+
+  Output written to BLASTN_ordB_oxidoreductase_B_cytochrome_P450_monooxygenase_4B.tab
+
+  Running blastn for ordB_oxidoreductase_B_cytochrome_P450_monooxygenase against sample: 5B
+
+  Output written to BLASTN_ordB_oxidoreductase_B_cytochrome_P450_monooxygenase_5B.tab
+
+  Running blastn for ordB_oxidoreductase_B_cytochrome_P450_monooxygenase against sample: 7B
+
+  Output written to BLASTN_ordB_oxidoreductase_B_cytochrome_P450_monooxygenase_7B.tab
+
+  Running blastn for ordB_oxidoreductase_B_cytochrome_P450_monooxygenase against sample: 9A
+
+  Output written to BLASTN_ordB_oxidoreductase_B_cytochrome_P450_monooxygenase_9A.tab
+
+Finished mapping gene: ordB_oxidoreductase_B_cytochrome_P450_monooxygenase
+------------------------------------------
+
+Mapping gene: pksA_polyketide_synthase
+  Running blastn for pksA_polyketide_synthase against sample: 10B
+
+  Output written to BLASTN_pksA_polyketide_synthase_10B.tab
+
+  Running blastn for pksA_polyketide_synthase against sample: 11B
+
+  Output written to BLASTN_pksA_polyketide_synthase_11B.tab
+
+  Running blastn for pksA_polyketide_synthase against sample: 12A
+
+  Output written to BLASTN_pksA_polyketide_synthase_12A.tab
+
+  Running blastn for pksA_polyketide_synthase against sample: 13B
+
+  Output written to BLASTN_pksA_polyketide_synthase_13B.tab
+
+  Running blastn for pksA_polyketide_synthase against sample: 15A
+
+  Output written to BLASTN_pksA_polyketide_synthase_15A.tab
+
+  Running blastn for pksA_polyketide_synthase against sample: 16A
+
+  Output written to BLASTN_pksA_polyketide_synthase_16A.tab
+
+  Running blastn for pksA_polyketide_synthase against sample: 17A
+
+  Output written to BLASTN_pksA_polyketide_synthase_17A.tab
+
+  Running blastn for pksA_polyketide_synthase against sample: 18B
+
+  Output written to BLASTN_pksA_polyketide_synthase_18B.tab
+
+  Running blastn for pksA_polyketide_synthase against sample: 19B
+
+  Output written to BLASTN_pksA_polyketide_synthase_19B.tab
+
+  Running blastn for pksA_polyketide_synthase against sample: 1B
+
+  Output written to BLASTN_pksA_polyketide_synthase_1B.tab
+
+  Running blastn for pksA_polyketide_synthase against sample: 20B
+
+  Output written to BLASTN_pksA_polyketide_synthase_20B.tab
+
+  Running blastn for pksA_polyketide_synthase against sample: 22B
+
+  Output written to BLASTN_pksA_polyketide_synthase_22B.tab
+
+  Running blastn for pksA_polyketide_synthase against sample: 2A
+
+  Output written to BLASTN_pksA_polyketide_synthase_2A.tab
+
+  Running blastn for pksA_polyketide_synthase against sample: 3B
+
+  Output written to BLASTN_pksA_polyketide_synthase_3B.tab
+
+  Running blastn for pksA_polyketide_synthase against sample: 4B
+
+  Output written to BLASTN_pksA_polyketide_synthase_4B.tab
+
+  Running blastn for pksA_polyketide_synthase against sample: 5B
+
+  Output written to BLASTN_pksA_polyketide_synthase_5B.tab
+
+  Running blastn for pksA_polyketide_synthase against sample: 7B
+
+  Output written to BLASTN_pksA_polyketide_synthase_7B.tab
+
+  Running blastn for pksA_polyketide_synthase against sample: 9A
+
+  Output written to BLASTN_pksA_polyketide_synthase_9A.tab
+
+Finished mapping gene: pksA_polyketide_synthase
+------------------------------------------
+
+Mapping gene: vbs_versicolorin_B_synthase
+  Running blastn for vbs_versicolorin_B_synthase against sample: 10B
+
+  Output written to BLASTN_vbs_versicolorin_B_synthase_10B.tab
+
+  Running blastn for vbs_versicolorin_B_synthase against sample: 11B
+
+  Output written to BLASTN_vbs_versicolorin_B_synthase_11B.tab
+
+  Running blastn for vbs_versicolorin_B_synthase against sample: 12A
+
+  Output written to BLASTN_vbs_versicolorin_B_synthase_12A.tab
+
+  Running blastn for vbs_versicolorin_B_synthase against sample: 13B
+
+  Output written to BLASTN_vbs_versicolorin_B_synthase_13B.tab
+
+  Running blastn for vbs_versicolorin_B_synthase against sample: 15A
+
+  Output written to BLASTN_vbs_versicolorin_B_synthase_15A.tab
+
+  Running blastn for vbs_versicolorin_B_synthase against sample: 16A
+
+  Output written to BLASTN_vbs_versicolorin_B_synthase_16A.tab
+
+  Running blastn for vbs_versicolorin_B_synthase against sample: 17A
+
+  Output written to BLASTN_vbs_versicolorin_B_synthase_17A.tab
+
+  Running blastn for vbs_versicolorin_B_synthase against sample: 18B
+
+  Output written to BLASTN_vbs_versicolorin_B_synthase_18B.tab
+
+  Running blastn for vbs_versicolorin_B_synthase against sample: 19B
+
+  Output written to BLASTN_vbs_versicolorin_B_synthase_19B.tab
+
+  Running blastn for vbs_versicolorin_B_synthase against sample: 1B
+
+  Output written to BLASTN_vbs_versicolorin_B_synthase_1B.tab
+
+  Running blastn for vbs_versicolorin_B_synthase against sample: 20B
+
+  Output written to BLASTN_vbs_versicolorin_B_synthase_20B.tab
+
+  Running blastn for vbs_versicolorin_B_synthase against sample: 22B
+
+  Output written to BLASTN_vbs_versicolorin_B_synthase_22B.tab
+
+  Running blastn for vbs_versicolorin_B_synthase against sample: 2A
+
+  Output written to BLASTN_vbs_versicolorin_B_synthase_2A.tab
+
+  Running blastn for vbs_versicolorin_B_synthase against sample: 3B
+
+  Output written to BLASTN_vbs_versicolorin_B_synthase_3B.tab
+
+  Running blastn for vbs_versicolorin_B_synthase against sample: 4B
+
+  Output written to BLASTN_vbs_versicolorin_B_synthase_4B.tab
+
+  Running blastn for vbs_versicolorin_B_synthase against sample: 5B
+
+  Output written to BLASTN_vbs_versicolorin_B_synthase_5B.tab
+
+  Running blastn for vbs_versicolorin_B_synthase against sample: 7B
+
+  Output written to BLASTN_vbs_versicolorin_B_synthase_7B.tab
+
+  Running blastn for vbs_versicolorin_B_synthase against sample: 9A
+
+  Output written to BLASTN_vbs_versicolorin_B_synthase_9A.tab
+
+Finished mapping gene: vbs_versicolorin_B_synthase
+------------------------------------------
+
+Mapping gene: ver-1_dehydrogenase
+  Running blastn for ver-1_dehydrogenase against sample: 10B
+
+  Output written to BLASTN_ver-1_dehydrogenase_10B.tab
+
+  Running blastn for ver-1_dehydrogenase against sample: 11B
+
+  Output written to BLASTN_ver-1_dehydrogenase_11B.tab
+
+  Running blastn for ver-1_dehydrogenase against sample: 12A
+
+  Output written to BLASTN_ver-1_dehydrogenase_12A.tab
+
+  Running blastn for ver-1_dehydrogenase against sample: 13B
+
+  Output written to BLASTN_ver-1_dehydrogenase_13B.tab
+
+  Running blastn for ver-1_dehydrogenase against sample: 15A
+
+  Output written to BLASTN_ver-1_dehydrogenase_15A.tab
+
+  Running blastn for ver-1_dehydrogenase against sample: 16A
+
+  Output written to BLASTN_ver-1_dehydrogenase_16A.tab
+
+  Running blastn for ver-1_dehydrogenase against sample: 17A
+
+  Output written to BLASTN_ver-1_dehydrogenase_17A.tab
+
+  Running blastn for ver-1_dehydrogenase against sample: 18B
+
+  Output written to BLASTN_ver-1_dehydrogenase_18B.tab
+
+  Running blastn for ver-1_dehydrogenase against sample: 19B
+
+  Output written to BLASTN_ver-1_dehydrogenase_19B.tab
+
+  Running blastn for ver-1_dehydrogenase against sample: 1B
+
+  Output written to BLASTN_ver-1_dehydrogenase_1B.tab
+
+  Running blastn for ver-1_dehydrogenase against sample: 20B
+
+  Output written to BLASTN_ver-1_dehydrogenase_20B.tab
+
+  Running blastn for ver-1_dehydrogenase against sample: 22B
+
+  Output written to BLASTN_ver-1_dehydrogenase_22B.tab
+
+  Running blastn for ver-1_dehydrogenase against sample: 2A
+
+  Output written to BLASTN_ver-1_dehydrogenase_2A.tab
+
+  Running blastn for ver-1_dehydrogenase against sample: 3B
+
+  Output written to BLASTN_ver-1_dehydrogenase_3B.tab
+
+  Running blastn for ver-1_dehydrogenase against sample: 4B
+
+  Output written to BLASTN_ver-1_dehydrogenase_4B.tab
+
+  Running blastn for ver-1_dehydrogenase against sample: 5B
+
+  Output written to BLASTN_ver-1_dehydrogenase_5B.tab
+
+  Running blastn for ver-1_dehydrogenase against sample: 7B
+
+  Output written to BLASTN_ver-1_dehydrogenase_7B.tab
+
+  Running blastn for ver-1_dehydrogenase against sample: 9A
+
+  Output written to BLASTN_ver-1_dehydrogenase_9A.tab
+
+Finished mapping gene: ver-1_dehydrogenase
+------------------------------------------
+
+Mapping gene: verA_monooxygenase
+  Running blastn for verA_monooxygenase against sample: 10B
+
+  Output written to BLASTN_verA_monooxygenase_10B.tab
+
+  Running blastn for verA_monooxygenase against sample: 11B
+
+  Output written to BLASTN_verA_monooxygenase_11B.tab
+
+  Running blastn for verA_monooxygenase against sample: 12A
+
+  Output written to BLASTN_verA_monooxygenase_12A.tab
+
+  Running blastn for verA_monooxygenase against sample: 13B
+
+  Output written to BLASTN_verA_monooxygenase_13B.tab
+
+  Running blastn for verA_monooxygenase against sample: 15A
+
+  Output written to BLASTN_verA_monooxygenase_15A.tab
+
+  Running blastn for verA_monooxygenase against sample: 16A
+
+  Output written to BLASTN_verA_monooxygenase_16A.tab
+
+  Running blastn for verA_monooxygenase against sample: 17A
+
+  Output written to BLASTN_verA_monooxygenase_17A.tab
+
+  Running blastn for verA_monooxygenase against sample: 18B
+
+  Output written to BLASTN_verA_monooxygenase_18B.tab
+
+  Running blastn for verA_monooxygenase against sample: 19B
+
+  Output written to BLASTN_verA_monooxygenase_19B.tab
+
+  Running blastn for verA_monooxygenase against sample: 1B
+
+  Output written to BLASTN_verA_monooxygenase_1B.tab
+
+  Running blastn for verA_monooxygenase against sample: 20B
+
+  Output written to BLASTN_verA_monooxygenase_20B.tab
+
+  Running blastn for verA_monooxygenase against sample: 22B
+
+  Output written to BLASTN_verA_monooxygenase_22B.tab
+
+  Running blastn for verA_monooxygenase against sample: 2A
+
+  Output written to BLASTN_verA_monooxygenase_2A.tab
+
+  Running blastn for verA_monooxygenase against sample: 3B
+
+  Output written to BLASTN_verA_monooxygenase_3B.tab
+
+  Running blastn for verA_monooxygenase against sample: 4B
+
+  Output written to BLASTN_verA_monooxygenase_4B.tab
+
+  Running blastn for verA_monooxygenase against sample: 5B
+
+  Output written to BLASTN_verA_monooxygenase_5B.tab
+
+  Running blastn for verA_monooxygenase against sample: 7B
+
+  Output written to BLASTN_verA_monooxygenase_7B.tab
+
+  Running blastn for verA_monooxygenase against sample: 9A
+
+  Output written to BLASTN_verA_monooxygenase_9A.tab
+
+Finished mapping gene: verA_monooxygenase
+------------------------------------------
+
+Mapping gene: verB_desaturase_versicolorin_B_synthase
+  Running blastn for verB_desaturase_versicolorin_B_synthase against sample: 10B
+
+  Output written to BLASTN_verB_desaturase_versicolorin_B_synthase_10B.tab
+
+  Running blastn for verB_desaturase_versicolorin_B_synthase against sample: 11B
+
+  Output written to BLASTN_verB_desaturase_versicolorin_B_synthase_11B.tab
+
+  Running blastn for verB_desaturase_versicolorin_B_synthase against sample: 12A
+
+  Output written to BLASTN_verB_desaturase_versicolorin_B_synthase_12A.tab
+
+  Running blastn for verB_desaturase_versicolorin_B_synthase against sample: 13B
+
+  Output written to BLASTN_verB_desaturase_versicolorin_B_synthase_13B.tab
+
+  Running blastn for verB_desaturase_versicolorin_B_synthase against sample: 15A
+
+  Output written to BLASTN_verB_desaturase_versicolorin_B_synthase_15A.tab
+
+  Running blastn for verB_desaturase_versicolorin_B_synthase against sample: 16A
+
+  Output written to BLASTN_verB_desaturase_versicolorin_B_synthase_16A.tab
+
+  Running blastn for verB_desaturase_versicolorin_B_synthase against sample: 17A
+
+  Output written to BLASTN_verB_desaturase_versicolorin_B_synthase_17A.tab
+
+  Running blastn for verB_desaturase_versicolorin_B_synthase against sample: 18B
+
+  Output written to BLASTN_verB_desaturase_versicolorin_B_synthase_18B.tab
+
+  Running blastn for verB_desaturase_versicolorin_B_synthase against sample: 19B
+
+  Output written to BLASTN_verB_desaturase_versicolorin_B_synthase_19B.tab
+
+  Running blastn for verB_desaturase_versicolorin_B_synthase against sample: 1B
+
+  Output written to BLASTN_verB_desaturase_versicolorin_B_synthase_1B.tab
+
+  Running blastn for verB_desaturase_versicolorin_B_synthase against sample: 20B
+
+  Output written to BLASTN_verB_desaturase_versicolorin_B_synthase_20B.tab
+
+  Running blastn for verB_desaturase_versicolorin_B_synthase against sample: 22B
+
+  Output written to BLASTN_verB_desaturase_versicolorin_B_synthase_22B.tab
+
+  Running blastn for verB_desaturase_versicolorin_B_synthase against sample: 2A
+
+  Output written to BLASTN_verB_desaturase_versicolorin_B_synthase_2A.tab
+
+  Running blastn for verB_desaturase_versicolorin_B_synthase against sample: 3B
+
+  Output written to BLASTN_verB_desaturase_versicolorin_B_synthase_3B.tab
+
+  Running blastn for verB_desaturase_versicolorin_B_synthase against sample: 4B
+
+  Output written to BLASTN_verB_desaturase_versicolorin_B_synthase_4B.tab
+
+  Running blastn for verB_desaturase_versicolorin_B_synthase against sample: 5B
+
+  Output written to BLASTN_verB_desaturase_versicolorin_B_synthase_5B.tab
+
+  Running blastn for verB_desaturase_versicolorin_B_synthase against sample: 7B
+
+  Output written to BLASTN_verB_desaturase_versicolorin_B_synthase_7B.tab
+
+  Running blastn for verB_desaturase_versicolorin_B_synthase against sample: 9A
+
+  Output written to BLASTN_verB_desaturase_versicolorin_B_synthase_9A.tab
+
+Finished mapping gene: verB_desaturase_versicolorin_B_synthase
+------------------------------------------
+
+Blastn mapping complete.

@@ -1,0 +1,252 @@
+This is sample 10B
+
+Making AMINO ACID BLAST database for 10B.faa
+
+
+Building a new DB, current time: 12/18/2024 22:03:41
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_augustus_proteins/10B/Aflavus_proteome_10B
+New DB title:  Aflavus_redicted_proteome_10B
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10797 sequences in 0.314448 seconds.
+
+
+This is sample 11B
+
+Making AMINO ACID BLAST database for 11B.faa
+
+
+Building a new DB, current time: 12/18/2024 22:05:14
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_augustus_proteins/11B/Aflavus_proteome_11B
+New DB title:  Aflavus_redicted_proteome_11B
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10784 sequences in 0.402865 seconds.
+
+
+This is sample 12A
+
+Making AMINO ACID BLAST database for 12A.faa
+
+
+Building a new DB, current time: 12/18/2024 22:06:44
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_augustus_proteins/12A/Aflavus_proteome_12A
+New DB title:  Aflavus_redicted_proteome_12A
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10774 sequences in 0.326384 seconds.
+
+
+This is sample 13B
+
+Making AMINO ACID BLAST database for 13B.faa
+
+
+Building a new DB, current time: 12/18/2024 22:08:15
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_augustus_proteins/13B/Aflavus_proteome_13B
+New DB title:  Aflavus_redicted_proteome_13B
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10827 sequences in 0.313205 seconds.
+
+
+This is sample 15A
+
+Making AMINO ACID BLAST database for 15A.faa
+
+
+Building a new DB, current time: 12/18/2024 22:09:45
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_augustus_proteins/15A/Aflavus_proteome_15A
+New DB title:  Aflavus_redicted_proteome_15A
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10780 sequences in 0.498456 seconds.
+
+
+This is sample 16A
+
+Making AMINO ACID BLAST database for 16A.faa
+
+
+Building a new DB, current time: 12/18/2024 22:11:16
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_augustus_proteins/16A/Aflavus_proteome_16A
+New DB title:  Aflavus_redicted_proteome_16A
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10783 sequences in 0.42576 seconds.
+
+
+This is sample 17A
+
+Making AMINO ACID BLAST database for 17A.faa
+
+
+Building a new DB, current time: 12/18/2024 22:12:47
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_augustus_proteins/17A/Aflavus_proteome_17A
+New DB title:  Aflavus_redicted_proteome_17A
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 11851 sequences in 0.386652 seconds.
+
+
+This is sample 18B
+
+Making AMINO ACID BLAST database for 18B.faa
+
+
+Building a new DB, current time: 12/18/2024 22:14:18
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_augustus_proteins/18B/Aflavus_proteome_18B
+New DB title:  Aflavus_redicted_proteome_18B
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10831 sequences in 0.338204 seconds.
+
+
+This is sample 19B
+
+Making AMINO ACID BLAST database for 19B.faa
+
+
+Building a new DB, current time: 12/18/2024 22:15:48
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_augustus_proteins/19B/Aflavus_proteome_19B
+New DB title:  Aflavus_redicted_proteome_19B
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10919 sequences in 0.344333 seconds.
+
+
+This is sample 1B
+
+Making AMINO ACID BLAST database for 1B.faa
+
+
+Building a new DB, current time: 12/18/2024 22:17:19
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_augustus_proteins/1B/Aflavus_proteome_1B
+New DB title:  Aflavus_redicted_proteome_1B
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10943 sequences in 0.392352 seconds.
+
+
+This is sample 20B
+
+Making AMINO ACID BLAST database for 20B.faa
+
+
+Building a new DB, current time: 12/18/2024 22:18:49
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_augustus_proteins/20B/Aflavus_proteome_20B
+New DB title:  Aflavus_redicted_proteome_20B
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 11012 sequences in 0.323243 seconds.
+
+
+This is sample 22B
+
+Making AMINO ACID BLAST database for 22B.faa
+
+
+Building a new DB, current time: 12/18/2024 22:20:20
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_augustus_proteins/22B/Aflavus_proteome_22B
+New DB title:  Aflavus_redicted_proteome_22B
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10781 sequences in 0.431017 seconds.
+
+
+This is sample 2A
+
+Making AMINO ACID BLAST database for 2A.faa
+
+
+Building a new DB, current time: 12/18/2024 22:21:50
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_augustus_proteins/2A/Aflavus_proteome_2A
+New DB title:  Aflavus_redicted_proteome_2A
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10608 sequences in 0.316242 seconds.
+
+
+This is sample 3B
+
+Making AMINO ACID BLAST database for 3B.faa
+
+
+Building a new DB, current time: 12/18/2024 22:23:21
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_augustus_proteins/3B/Aflavus_proteome_3B
+New DB title:  Aflavus_redicted_proteome_3B
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9938 sequences in 0.307858 seconds.
+
+
+This is sample 4B
+
+Making AMINO ACID BLAST database for 4B.faa
+
+
+Building a new DB, current time: 12/18/2024 22:24:52
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_augustus_proteins/4B/Aflavus_proteome_4B
+New DB title:  Aflavus_redicted_proteome_4B
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10825 sequences in 0.390246 seconds.
+
+
+This is sample 5B
+
+Making AMINO ACID BLAST database for 5B.faa
+
+
+Building a new DB, current time: 12/18/2024 22:26:22
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_augustus_proteins/5B/Aflavus_proteome_5B
+New DB title:  Aflavus_redicted_proteome_5B
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10878 sequences in 0.494336 seconds.
+
+
+This is sample 7B
+
+Making AMINO ACID BLAST database for 7B.faa
+
+
+Building a new DB, current time: 12/18/2024 22:27:53
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_augustus_proteins/7B/Aflavus_proteome_7B
+New DB title:  Aflavus_redicted_proteome_7B
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10774 sequences in 0.397289 seconds.
+
+
+This is sample 9A
+
+Making AMINO ACID BLAST database for 9A.faa
+
+
+Building a new DB, current time: 12/18/2024 22:29:24
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_augustus_proteins/9A/Aflavus_proteome_9A
+New DB title:  Aflavus_redicted_proteome_9A
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 10782 sequences in 0.446208 seconds.
+
+

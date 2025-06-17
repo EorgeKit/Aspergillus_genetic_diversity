@@ -1,0 +1,180 @@
+Starting gene extraction from /mnt/lustre/users/maloo/allan_project/allan-George/data/aflatoxin_gene_clusters/AF13-ABGC-AY510451.fasta...
+
+Skipping header/comment line: #
+
+Processing gene: aflT_putative_ABC_transporter with original coordinates: 13470-15450
+
+Converted coordinate for aflT_putative_ABC_transporter: BED start=13469, end=15450
+
+Extracted aflT_putative_ABC_transporter.fa
+------------------------------------------
+
+
+Processing gene: pksA_polyketide_synthase with original coordinates: 17109-23732
+
+Converted coordinate for pksA_polyketide_synthase: BED start=17108, end=23732
+
+Extracted pksA_polyketide_synthase.fa
+------------------------------------------
+
+
+Processing gene: nor-1_norsolorinic_acid_reductase with original coordinates: 25422-26411
+
+Converted coordinate for nor-1_norsolorinic_acid_reductase: BED start=25421, end=26411
+
+Extracted nor-1_norsolorinic_acid_reductase.fa
+------------------------------------------
+
+
+Processing gene: fas-2_hexA_fatty_acid_synthase_alpha_subunit with original coordinates: 27719-32839
+
+Converted coordinate for fas-2_hexA_fatty_acid_synthase_alpha_subunit: BED start=27718, end=32839
+
+Extracted fas-2_hexA_fatty_acid_synthase_alpha_subunit.fa
+------------------------------------------
+
+
+Processing gene: fas-1_hexB_fatty_acid_synthase_beta_subunit with original coordinates: 33553-39399
+
+Converted coordinate for fas-1_hexB_fatty_acid_synthase_beta_subunit: BED start=33552, end=39399
+
+Extracted fas-1_hexB_fatty_acid_synthase_beta_subunit.fa
+------------------------------------------
+
+
+Processing gene: AflR_regulatory_protein with original coordinates: 40669-42003
+
+Converted coordinate for AflR_regulatory_protein: BED start=40668, end=42003
+
+Extracted AflR_regulatory_protein.fa
+------------------------------------------
+
+
+Processing gene: aflJ_possible_transcriptional_modulator with original coordinates: 42743-44195
+
+Converted coordinate for aflJ_possible_transcriptional_modulator: BED start=42742, end=44195
+
+Extracted aflJ_possible_transcriptional_modulator.fa
+------------------------------------------
+
+
+Processing gene: adhA_short_chain_alcohol_dehydrogenase with original coordinates: 44759-45595
+
+Converted coordinate for adhA_short_chain_alcohol_dehydrogenase: BED start=44758, end=45595
+
+Extracted adhA_short_chain_alcohol_dehydrogenase.fa
+------------------------------------------
+
+
+Processing gene: estA_esterase with original coordinates: 46515-47516
+
+Converted coordinate for estA_esterase: BED start=46514, end=47516
+
+Extracted estA_esterase.fa
+------------------------------------------
+
+
+Processing gene: norA_reductase_dehydrogenase with original coordinates: 47807-49091
+
+Converted coordinate for norA_reductase_dehydrogenase: BED start=47806, end=49091
+
+Extracted norA_reductase_dehydrogenase.fa
+------------------------------------------
+
+
+Processing gene: ver-1_dehydrogenase with original coordinates: 49906-50805
+
+Converted coordinate for ver-1_dehydrogenase: BED start=49905, end=50805
+
+Extracted ver-1_dehydrogenase.fa
+------------------------------------------
+
+
+Processing gene: verA_monooxygenase with original coordinates: 51838-53373
+
+Converted coordinate for verA_monooxygenase: BED start=51837, end=53373
+
+Extracted verA_monooxygenase.fa
+------------------------------------------
+
+
+Processing gene: avnA_cytochrome_P450_monooxygenase with original coordinates: 54428-56019
+
+Converted coordinate for avnA_cytochrome_P450_monooxygenase: BED start=54427, end=56019
+
+Extracted avnA_cytochrome_P450_monooxygenase.fa
+------------------------------------------
+
+
+Processing gene: verB_desaturase_versicolorin_B_synthase with original coordinates: 56387-57943
+
+Converted coordinate for verB_desaturase_versicolorin_B_synthase: BED start=56386, end=57943
+
+Extracted verB_desaturase_versicolorin_B_synthase.fa
+------------------------------------------
+
+
+Processing gene: avfA_cytochrome_P450_monooxygenase with original coordinates: 58979-59827
+
+Converted coordinate for avfA_cytochrome_P450_monooxygenase: BED start=58978, end=59827
+
+Extracted avfA_cytochrome_P450_monooxygenase.fa
+------------------------------------------
+
+
+Processing gene: omtB_O-methyltransferase_B with original coordinates: 60007-61341
+
+Converted coordinate for omtB_O-methyltransferase_B: BED start=60006, end=61341
+
+Extracted omtB_O-methyltransferase_B.fa
+------------------------------------------
+
+
+Processing gene: omtA_O-methyltransferase_A with original coordinates: 62598-64084
+
+Converted coordinate for omtA_O-methyltransferase_A: BED start=62597, end=64084
+
+Extracted omtA_O-methyltransferase_A.fa
+------------------------------------------
+
+
+Processing gene: ordA_oxidoreductase_cytochrome_P450_monooxygenase with original coordinates: 65334-67284
+
+Converted coordinate for ordA_oxidoreductase_cytochrome_P450_monooxygenase: BED start=65333, end=67284
+
+Extracted ordA_oxidoreductase_cytochrome_P450_monooxygenase.fa
+------------------------------------------
+
+
+Processing gene: vbs_versicolorin_B_synthase with original coordinates: 67799-69785
+
+Converted coordinate for vbs_versicolorin_B_synthase: BED start=67798, end=69785
+
+Extracted vbs_versicolorin_B_synthase.fa
+------------------------------------------
+
+
+Processing gene: cypX_cytochrome_P450_monooxygenase with original coordinates: 70355-72003
+
+Converted coordinate for cypX_cytochrome_P450_monooxygenase: BED start=70354, end=72003
+
+Extracted cypX_cytochrome_P450_monooxygenase.fa
+------------------------------------------
+
+
+Processing gene: moxY_cytochrome_P450_monooxygenase_putative_monooxygenase with original coordinates: 72616-74361
+
+Converted coordinate for moxY_cytochrome_P450_monooxygenase_putative_monooxygenase: BED start=72615, end=74361
+
+Extracted moxY_cytochrome_P450_monooxygenase_putative_monooxygenase.fa
+------------------------------------------
+
+
+Processing gene: ordB_oxidoreductase_B_cytochrome_P450_monooxygenase with original coordinates: 74628-75428
+
+Converted coordinate for ordB_oxidoreductase_B_cytochrome_P450_monooxygenase: BED start=74627, end=75428
+
+Extracted ordB_oxidoreductase_B_cytochrome_P450_monooxygenase.fa
+------------------------------------------
+
+Done extracting genes.

@@ -1,0 +1,24 @@
+# gene_name    start    end
+aflT_putative_ABC_transporter    13470    15450
+pksA_polyketide_synthase         17109    23732
+nor-1_norsolorinic_acid_reductase 25422    26411
+fas-2_hexA_fatty_acid_synthase_alpha_subunit 27719    32839
+fas-1_hexB_fatty_acid_synthase_beta_subunit 33553    39399
+AflR_regulatory_protein          40669    42003
+aflJ_possible_transcriptional_modulator 42743    44195
+adhA_short_chain_alcohol_dehydrogenase 44759    45595
+estA_esterase                    46515    47516
+norA_reductase_dehydrogenase     47807    49091
+ver-1_dehydrogenase              49906    50805
+verA_monooxygenase               51838    53373
+avnA_cytochrome_P450_monooxygenase 54428    56019
+verB_desaturase_versicolorin_B_synthase 56387    57943
+avfA_cytochrome_P450_monooxygenase 58979    59827
+omtB_O-methyltransferase_B       60007    61341
+omtA_O-methyltransferase_A       62598    64084
+ordA_oxidoreductase_cytochrome_P450_monooxygenase 65334    67284
+vbs_versicolorin_B_synthase      67799    69785
+cypX_cytochrome_P450_monooxygenase 70355    72003
+moxY_cytochrome_P450_monooxygenase_putative_monooxygenase 72616    74361
+ordB_oxidoreductase_B_cytochrome_P450_monooxygenase 74628    75428
+hypA_hypothetical_protein        75783    77383

@@ -1,0 +1,10 @@
+Starting MAFFT alignment from files in: /mnt/lustre/users/maloo/allan_project/allan-George/analysis/extracted_algnd_aflx_genes/core_aflx_genes_aligned/concatenated_core_genes
+Alignment output will be saved to: /mnt/lustre/users/maloo/allan_project/allan-George/analysis/extracted_algnd_aflx_genes/core_aflx_genes_aligned/concatenated_core_genese/aligned_core_genes/core_genes_mafft_aligned.fasta
+Ensured output directory '/mnt/lustre/users/maloo/allan_project/allan-George/analysis/extracted_algnd_aflx_genes/core_aflx_genes_aligned/concatenated_core_genese/aligned_core_genes' exists.
+Found 16 concatenated FASTA files to align.
+Created temporary MAFFT input file: /var/tmp/pbs.6563241.sched01/tmpienwoiaz.fasta
+Executing MAFFT command: mafft --auto /var/tmp/pbs.6563241.sched01/tmpienwoiaz.fasta
+MAFFT alignment successful. Output saved to: /mnt/lustre/users/maloo/allan_project/allan-George/analysis/extracted_algnd_aflx_genes/core_aflx_genes_aligned/concatenated_core_genese/aligned_core_genes/core_genes_mafft_aligned.fasta
+Cleaned up temporary file: /var/tmp/pbs.6563241.sched01/tmpienwoiaz.fasta
+
+MAFFT alignment script finished.

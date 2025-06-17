@@ -1,0 +1,252 @@
+This is sample 10B
+
+Making NUCLEOTIDE BLAST databse for 10B.fa
+
+
+Building a new DB, current time: 09/28/2024 18:39:23
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_announced_contigs/10B./Aspergillus_contig_10B
+New DB title:  Aspergillus_announced_genome_10B
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 25 sequences in 0.593713 seconds.
+
+
+This is sample 11B
+
+Making NUCLEOTIDE BLAST databse for 11B.fa
+
+
+Building a new DB, current time: 09/28/2024 18:40:54
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_announced_contigs/11B./Aspergillus_contig_11B
+New DB title:  Aspergillus_announced_genome_11B
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 58 sequences in 0.616136 seconds.
+
+
+This is sample 12A
+
+Making NUCLEOTIDE BLAST databse for 12A.fa
+
+
+Building a new DB, current time: 09/28/2024 18:42:25
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_announced_contigs/12A./Aspergillus_contig_12A
+New DB title:  Aspergillus_announced_genome_12A
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 122 sequences in 0.647571 seconds.
+
+
+This is sample 13B
+
+Making NUCLEOTIDE BLAST databse for 13B.fa
+
+
+Building a new DB, current time: 09/28/2024 18:43:56
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_announced_contigs/13B./Aspergillus_contig_13B
+New DB title:  Aspergillus_announced_genome_13B
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 122 sequences in 0.763794 seconds.
+
+
+This is sample 15A
+
+Making NUCLEOTIDE BLAST databse for 15A.fa
+
+
+Building a new DB, current time: 09/28/2024 18:45:27
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_announced_contigs/15A./Aspergillus_contig_15A
+New DB title:  Aspergillus_announced_genome_15A
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 38 sequences in 0.702122 seconds.
+
+
+This is sample 16A
+
+Making NUCLEOTIDE BLAST databse for 16A.fa
+
+
+Building a new DB, current time: 09/28/2024 18:46:58
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_announced_contigs/16A./Aspergillus_contig_16A
+New DB title:  Aspergillus_announced_genome_16A
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 80 sequences in 0.675222 seconds.
+
+
+This is sample 17A
+
+Making NUCLEOTIDE BLAST databse for 17A.fa
+
+
+Building a new DB, current time: 09/28/2024 18:48:29
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_announced_contigs/17A./Aspergillus_contig_17A
+New DB title:  Aspergillus_announced_genome_17A
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 9715 sequences in 1.05865 seconds.
+
+
+This is sample 18B
+
+Making NUCLEOTIDE BLAST databse for 18B.fa
+
+
+Building a new DB, current time: 09/28/2024 18:50:01
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_announced_contigs/18B./Aspergillus_contig_18B
+New DB title:  Aspergillus_announced_genome_18B
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 135 sequences in 0.659733 seconds.
+
+
+This is sample 19B
+
+Making NUCLEOTIDE BLAST databse for 19B.fa
+
+
+Building a new DB, current time: 09/28/2024 18:51:31
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_announced_contigs/19B./Aspergillus_contig_19B
+New DB title:  Aspergillus_announced_genome_19B
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 560 sequences in 0.611795 seconds.
+
+
+This is sample 1B
+
+Making NUCLEOTIDE BLAST databse for 1B.fa
+
+
+Building a new DB, current time: 09/28/2024 18:53:02
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_announced_contigs/1B./Aspergillus_contig_1B
+New DB title:  Aspergillus_announced_genome_1B
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 399 sequences in 0.678568 seconds.
+
+
+This is sample 20B
+
+Making NUCLEOTIDE BLAST databse for 20B.fa
+
+
+Building a new DB, current time: 09/28/2024 18:54:33
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_announced_contigs/20B./Aspergillus_contig_20B
+New DB title:  Aspergillus_announced_genome_20B
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 760 sequences in 0.621489 seconds.
+
+
+This is sample 22B
+
+Making NUCLEOTIDE BLAST databse for 22B.fa
+
+
+Building a new DB, current time: 09/28/2024 18:56:04
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_announced_contigs/22B./Aspergillus_contig_22B
+New DB title:  Aspergillus_announced_genome_22B
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 36 sequences in 0.664164 seconds.
+
+
+This is sample 2A
+
+Making NUCLEOTIDE BLAST databse for 2A.fa
+
+
+Building a new DB, current time: 09/28/2024 18:57:35
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_announced_contigs/2A./Aspergillus_contig_2A
+New DB title:  Aspergillus_announced_genome_2A
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 50 sequences in 0.639366 seconds.
+
+
+This is sample 3B
+
+Making NUCLEOTIDE BLAST databse for 3B.fa
+
+
+Building a new DB, current time: 09/28/2024 18:59:06
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_announced_contigs/3B./Aspergillus_contig_3B
+New DB title:  Aspergillus_announced_genome_3B
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 100 sequences in 0.63712 seconds.
+
+
+This is sample 4B
+
+Making NUCLEOTIDE BLAST databse for 4B.fa
+
+
+Building a new DB, current time: 09/28/2024 19:00:37
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_announced_contigs/4B./Aspergillus_contig_4B
+New DB title:  Aspergillus_announced_genome_4B
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 65 sequences in 0.633045 seconds.
+
+
+This is sample 5B
+
+Making NUCLEOTIDE BLAST databse for 5B.fa
+
+
+Building a new DB, current time: 09/28/2024 19:02:08
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_announced_contigs/5B./Aspergillus_contig_5B
+New DB title:  Aspergillus_announced_genome_5B
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 84 sequences in 0.619884 seconds.
+
+
+This is sample 7B
+
+Making NUCLEOTIDE BLAST databse for 7B.fa
+
+
+Building a new DB, current time: 09/28/2024 19:03:38
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_announced_contigs/7B./Aspergillus_contig_7B
+New DB title:  Aspergillus_announced_genome_7B
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 29 sequences in 0.615643 seconds.
+
+
+This is sample 9A
+
+Making NUCLEOTIDE BLAST databse for 9A.fa
+
+
+Building a new DB, current time: 09/28/2024 19:05:09
+New DB name:   /mnt/lustre/users/maloo/allan_project/allan-George/data/database_announced_contigs/9A./Aspergillus_contig_9A
+New DB title:  Aspergillus_announced_genome_9A
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 48 sequences in 0.617109 seconds.
+
+

@@ -7,7 +7,7 @@
 #PBS -M alleankyalo@gmail.com
 #PBS -N BLASTN_A.flavus_represenative_genes_to_announced_contigs
 
-##Author: George Kitundu 16-December-2024
+##Author: George Kitundu 16-December-2025
 
 module load chpc/BIOMODULES
 module load ncbi-blast/2.16.0+
